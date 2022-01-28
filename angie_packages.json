@@ -1,0 +1,6 @@
+{
+    "angie.core": {
+        "name": "Angie Core",
+        "remote": "https://github.com/landra-sistemas/angie-package-core.git"
+    }
+}
