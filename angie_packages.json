@@ -2,5 +2,9 @@
     "angie.core": {
         "name": "Angie Core",
         "remote": "https://github.com/landra-sistemas/angie-package-core.git"
+    },
+    "angie.hl7": {
+        "name": "Angie HL7",
+        "remote": "git@github.com:hernaj34/angie-hl7.git"
     }
 }
