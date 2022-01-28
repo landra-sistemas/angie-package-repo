@@ -5,6 +5,6 @@
     },
     "angie.hl7": {
         "name": "Angie HL7",
-        "remote": "git@github.com:hernaj34/angie-hl7.git"
+        "remote": "https://github.com/hernaj34/angie-hl7.git"
     }
 }
