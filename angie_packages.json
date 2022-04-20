@@ -6,5 +6,9 @@
     "angie.hl7": {
         "name": "Angie HL7",
         "remote": "https://github.com/hernaj34/angie-hl7.git"
+    },
+    "angie.fhir": {
+        "name": "Angie FHIR",
+        "remote": "https://github.com/landra-sistemas/angie-package-fhir.git"
     }
 }
